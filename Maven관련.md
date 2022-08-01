@@ -7,5 +7,5 @@ mvn clean compile package
 mvn exec:java -Dexec.mainClass=sample.spring.chapter01.bankapp.BankApp
 
 ### JUnit Ttest
-mvn test
-mvn test -Dtest=AppTest
+- mvn test
+- mvn test -Dtest=AppTest
